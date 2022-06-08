@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "WonXd-DarkAngle" //namabot kalian
 global.ownername= "WonXd" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/L4aeqRIXU1cD1PWQSPLIb2" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/pewdiepew" //bebas asal jan hapus
 global.github = "https://github.com/WonXd/" //bebas
 global.email = "rixzzkulbet@gmail.com" //bebas
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done Ngab Anjing~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
